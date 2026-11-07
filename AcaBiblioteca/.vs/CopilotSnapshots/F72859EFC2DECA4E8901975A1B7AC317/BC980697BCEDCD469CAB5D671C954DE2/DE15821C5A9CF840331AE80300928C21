@@ -1,0 +1,184 @@
+﻿namespace 
+    
+    AcaBiblioteca
+{
+    partial class FrmPrincipal
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        private FontAwesome.Sharp.IconButton GetBtnInicio1()
+        {
+            return btnInicio;
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent(FontAwesome.Sharp.IconButton btnInicio1)
+        {
+            pnlMenu = new Panel();
+            pnlLogo = new Panel();
+            picLogo = new PictureBox();
+            lblTitulo = new Label();
+            pnlSuperiror = new Panel();
+            pnlEstado = new Panel();
+            pnlContenido = new Panel();
+            btnInicio = new FontAwesome.Sharp.IconButton();
+            lblSubtitulo = new Label();
+            pnlMenu.SuspendLayout();
+            pnlLogo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)picLogo).BeginInit();
+            SuspendLayout();
+            // 
+            // pnlMenu
+            // 
+            pnlMenu.BackColor = SystemColors.ActiveBorder;
+            pnlMenu.Controls.Add(btnInicio);
+            pnlMenu.Controls.Add(pnlLogo);
+            pnlMenu.Dock = DockStyle.Left;
+            pnlMenu.Location = new Point(0, 0);
+            pnlMenu.Name = "pnlMenu";
+            pnlMenu.Size = new Size(245, 450);
+            pnlMenu.TabIndex = 0;
+            // 
+            // pnlLogo
+            // 
+            pnlLogo.BackColor = SystemColors.Control;
+            pnlLogo.Controls.Add(lblSubtitulo);
+            pnlLogo.Controls.Add(picLogo);
+            pnlLogo.Controls.Add(lblTitulo);
+            pnlLogo.Dock = DockStyle.Top;
+            pnlLogo.Location = new Point(0, 0);
+            pnlLogo.Name = "pnlLogo";
+            pnlLogo.Size = new Size(245, 80);
+            pnlLogo.TabIndex = 0;
+            // 
+            // picLogo
+            // 
+            picLogo.BackColor = Color.Transparent;
+            picLogo.BackgroundImageLayout = ImageLayout.Zoom;
+            picLogo.Image = Properties.Resources.images__1_;
+            picLogo.Location = new Point(9, 9);
+            picLogo.Name = "picLogo";
+            picLogo.Size = new Size(62, 60);
+            picLogo.SizeMode = PictureBoxSizeMode.Zoom;
+            picLogo.TabIndex = 2;
+            picLogo.TabStop = false;
+            // 
+            // lblTitulo
+            // 
+            lblTitulo.AutoSize = true;
+            lblTitulo.Font = new Font("Corbel", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblTitulo.Location = new Point(71, 7);
+            lblTitulo.Name = "lblTitulo";
+            lblTitulo.Size = new Size(166, 35);
+            lblTitulo.TabIndex = 0;
+            lblTitulo.Text = "BIBLIOTECA";
+            // 
+            // pnlSuperiror
+            // 
+            pnlSuperiror.BackColor = Color.LightCyan;
+            pnlSuperiror.Dock = DockStyle.Top;
+            pnlSuperiror.Location = new Point(245, 0);
+            pnlSuperiror.Name = "pnlSuperiror";
+            pnlSuperiror.Size = new Size(555, 80);
+            pnlSuperiror.TabIndex = 1;
+            // 
+            // pnlEstado
+            // 
+            pnlEstado.BackColor = Color.Azure;
+            pnlEstado.Dock = DockStyle.Bottom;
+            pnlEstado.Location = new Point(245, 410);
+            pnlEstado.Name = "pnlEstado";
+            pnlEstado.Size = new Size(555, 40);
+            pnlEstado.TabIndex = 2;
+            // 
+            // pnlContenido
+            // 
+            pnlContenido.Dock = DockStyle.Fill;
+            pnlContenido.Location = new Point(245, 80);
+            pnlContenido.Name = "pnlContenido";
+            pnlContenido.Size = new Size(555, 330);
+            pnlContenido.TabIndex = 3;
+            // 
+            // btnInicio
+            // 
+            btnInicio.Dock = DockStyle.Top;
+            btnInicio.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            btnInicio.IconChar = FontAwesome.Sharp.IconChar.House;
+            btnInicio.IconColor = Color.Black;
+            btnInicio.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            btnInicio.IconSize = 30;
+            btnInicio.ImageAlign = ContentAlignment.MiddleRight;
+            btnInicio.Location = new Point(0, 80);
+            btnInicio.Name = "btnInicio";
+            btnInicio.Size = new Size(245, 45);
+            btnInicio.TabIndex = 1;
+            btnInicio.Text = "INICIO";
+            btnInicio.TextImageRelation = TextImageRelation.ImageBeforeText;
+            btnInicio.UseVisualStyleBackColor = true;
+            btnInicio1.Click += (sender, e) => { /* Handle click */ };
+            // 
+            // lblSubtitulo
+            // 
+            lblSubtitulo.AutoSize = true;
+            lblSubtitulo.Font = new Font("Segoe UI", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
+            lblSubtitulo.Location = new Point(77, 42);
+            lblSubtitulo.Name = "lblSubtitulo";
+            lblSubtitulo.Size = new Size(153, 23);
+            lblSubtitulo.TabIndex = 0;
+            lblSubtitulo.Text = "Sistema De Gestión";
+            // 
+            // FrmPrincipal
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(pnlContenido);
+            Controls.Add(pnlEstado);
+            Controls.Add(pnlSuperiror);
+            Controls.Add(pnlMenu);
+            Name = "FrmPrincipal";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Sistema Gestión de Biblioteca";
+            Load += Form1_Load;
+            pnlMenu.ResumeLayout(false);
+            pnlLogo.ResumeLayout(false);
+            pnlLogo.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)picLogo).EndInit();
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private Panel pnlMenu;
+        private Panel pnlSuperiror;
+        private Panel pnlEstado;
+        private Panel pnlContenido;
+        private Panel pnlLogo;
+        private Label lblTitulo;
+        private PictureBox picLogo;
+        private FontAwesome.Sharp.IconButton btnInicio;
+        private Label lblSubtitulo;
+    }
+}
+

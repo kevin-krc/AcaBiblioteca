@@ -1,0 +1,319 @@
+﻿## PROCESSES
+Currently debugging:
+- AcaBiblioteca.exe (PID: 23112)
+
+## EXCEPTION
+Exception Type: System.NullReferenceException
+Exception Message: Object reference not set to an instance of an object.
+Piece of code that has the exception:
+```csharp C:\Users\nicol\source\repos\AcaBiblioteca\AcaBiblioteca\FrmPrincipal.Designer.cs
+36:         private void InitializeComponent(FontAwesome.Sharp.IconButton btnInicio1)
+37:         {
+38:             pnlMenu = new Panel();
+39:             pnlLogo = new Panel();
+40:             picLogo = new PictureBox();
+41:             lblTitulo = new Label();
+42:             pnlSuperiror = new Panel();
+43:             pnlEstado = new Panel();
+44:             pnlContenido = new Panel();
+45:             btnInicio = new FontAwesome.Sharp.IconButton();
+46:             lblSubtitulo = new Label();
+47:             pnlMenu.SuspendLayout();
+48:             pnlLogo.SuspendLayout();
+49:             ((System.ComponentModel.ISupportInitialize)picLogo).BeginInit();
+50:             SuspendLayout();
+51:             // 
+52:             // pnlMenu
+53:             // 
+54:             pnlMenu.BackColor = SystemColors.ActiveBorder;
+55:             pnlMenu.Controls.Add(btnInicio);
+56:             pnlMenu.Controls.Add(pnlLogo);
+57:             pnlMenu.Dock = DockStyle.Left;
+58:             pnlMenu.Location = new Point(0, 0);
+59:             pnlMenu.Name = "pnlMenu";
+60:             pnlMenu.Size = new Size(245, 450);
+61:             pnlMenu.TabIndex = 0;
+62:             // 
+63:             // pnlLogo
+64:             // 
+65:             pnlLogo.BackColor = SystemColors.Control;
+66:             pnlLogo.Controls.Add(lblSubtitulo);
+67:             pnlLogo.Controls.Add(picLogo);
+68:             pnlLogo.Controls.Add(lblTitulo);
+69:             pnlLogo.Dock = DockStyle.Top;
+70:             pnlLogo.Location = new Point(0, 0);
+71:             pnlLogo.Name = "pnlLogo";
+72:             pnlLogo.Size = new Size(245, 80);
+73:             pnlLogo.TabIndex = 0;
+74:             // 
+75:             // picLogo
+76:             // 
+77:             picLogo.BackColor = Color.Transparent;
+78:             picLogo.BackgroundImageLayout = ImageLayout.Zoom;
+79:             picLogo.Image = Properties.Resources.images__1_;
+80:             picLogo.Location = new Point(9, 9);
+81:             picLogo.Name = "picLogo";
+82:             picLogo.Size = new Size(62, 60);
+83:             picLogo.SizeMode = PictureBoxSizeMode.Zoom;
+84:             picLogo.TabIndex = 2;
+85:             picLogo.TabStop = false;
+86:             // 
+87:             // lblTitulo
+88:             // 
+89:             lblTitulo.AutoSize = true;
+90:             lblTitulo.Font = new Font("Corbel", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+91:             lblTitulo.Location = new Point(71, 7);
+92:             lblTitulo.Name = "lblTitulo";
+93:             lblTitulo.Size = new Size(166, 35);
+94:             lblTitulo.TabIndex = 0;
+95:             lblTitulo.Text = "BIBLIOTECA";
+96:             // 
+97:             // pnlSuperiror
+98:             // 
+99:             pnlSuperiror.BackColor = Color.LightCyan;
+100:             pnlSuperiror.Dock = DockStyle.Top;
+101:             pnlSuperiror.Location = new Point(245, 0);
+102:             pnlSuperiror.Name = "pnlSuperiror";
+103:             pnlSuperiror.Size = new Size(555, 80);
+104:             pnlSuperiror.TabIndex = 1;
+105:             // 
+106:             // pnlEstado
+107:             // 
+108:             pnlEstado.BackColor = Color.Azure;
+109:             pnlEstado.Dock = DockStyle.Bottom;
+110:             pnlEstado.Location = new Point(245, 410);
+111:             pnlEstado.Name = "pnlEstado";
+112:             pnlEstado.Size = new Size(555, 40);
+113:             pnlEstado.TabIndex = 2;
+114:             // 
+115:             // pnlContenido
+116:             // 
+117:             pnlContenido.Dock = DockStyle.Fill;
+118:             pnlContenido.Location = new Point(245, 80);
+119:             pnlContenido.Name = "pnlContenido";
+120:             pnlContenido.Size = new Size(555, 330);
+121:             pnlContenido.TabIndex = 3;
+122:             // 
+123:             // btnInicio
+124:             // 
+125:             btnInicio.Dock = DockStyle.Top;
+126:             btnInicio.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+127:             btnInicio.IconChar = FontAwesome.Sharp.IconChar.House;
+128:             btnInicio.IconColor = Color.Black;
+129:             btnInicio.IconFont = FontAwesome.Sharp.IconFont.Auto;
+130:             btnInicio.IconSize = 30;
+131:             btnInicio.ImageAlign = ContentAlignment.MiddleRight;
+132:             btnInicio.Location = new Point(0, 80);
+133:             btnInicio.Name = "btnInicio";
+134:             btnInicio.Size = new Size(245, 45);
+135:             btnInicio.TabIndex = 1;
+136:             btnInicio.Text = "INICIO";
+137:             btnInicio.TextImageRelation = TextImageRelation.ImageBeforeText;
+138:             btnInicio.UseVisualStyleBackColor = true;
+139:             btnInicio1.Click += (sender, e) => { /* Handle click */ };
+140:             // 
+141:             // lblSubtitulo
+142:             // 
+143:             lblSubtitulo.AutoSize = true;
+144:             lblSubtitulo.Font = new Font("Segoe UI", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
+145:             lblSubtitulo.Location = new Point(77, 42);
+146:             lblSubtitulo.Name = "lblSubtitulo";
+147:             lblSubtitulo.Size = new Size(153, 23);
+148:             lblSubtitulo.TabIndex = 0;
+149:             lblSubtitulo.Text = "Sistema De Gestión";
+150:             // 
+151:             // FrmPrincipal
+152:             // 
+153:             AutoScaleDimensions = new SizeF(8F, 20F);
+154:             AutoScaleMode = AutoScaleMode.Font;
+155:             ClientSize = new Size(800, 450);
+156:             Controls.Add(pnlContenido);
+157:             Controls.Add(pnlEstado);
+158:             Controls.Add(pnlSuperiror);
+159:             Controls.Add(pnlMenu);
+160:             Name = "FrmPrincipal";
+161:             StartPosition = FormStartPosition.CenterScreen;
+162:             Text = "Sistema Gestión de Biblioteca";
+163:             Load += Form1_Load;
+164:             pnlMenu.ResumeLayout(false);
+165:             pnlLogo.ResumeLayout(false);
+166:             pnlLogo.PerformLayout();
+167:             ((System.ComponentModel.ISupportInitialize)picLogo).EndInit();
+168:             ResumeLayout(false);
+169:         }
+```
+Exception is on line 139
+The callstack context, if included, corresponds to the thread where this exception occurred. There is no need to identify this thread by other means.
+The top most frame in the callstack context should correspond to the place the exception message was thrown from. Code may or may not have been provided for it but can be requested.
+
+## CALLSTACK
+Thread ID: 2540
+[1] AcaBiblioteca.dll!AcaBiblioteca.FrmPrincipal.InitializeComponent
+This is the current user focused stack frame. The provided locals context corresponds to this stack frame, but you may evaluate expressions and retrieve code for any frame.
+Code for the stack frame:
+```csharp AcaBiblioteca\FrmPrincipal.Designer.cs
+36:         private void InitializeComponent(FontAwesome.Sharp.IconButton btnInicio1)
+37:         {
+38:             pnlMenu = new Panel();
+39:             pnlLogo = new Panel();
+40:             picLogo = new PictureBox();
+41:             lblTitulo = new Label();
+42:             pnlSuperiror = new Panel();
+43:             pnlEstado = new Panel();
+44:             pnlContenido = new Panel();
+45:             btnInicio = new FontAwesome.Sharp.IconButton();
+46:             lblSubtitulo = new Label();
+47:             pnlMenu.SuspendLayout();
+48:             pnlLogo.SuspendLayout();
+49:             ((System.ComponentModel.ISupportInitialize)picLogo).BeginInit();
+50:             SuspendLayout();
+51:             // 
+52:             // pnlMenu
+53:             // 
+54:             pnlMenu.BackColor = SystemColors.ActiveBorder;
+55:             pnlMenu.Controls.Add(btnInicio);
+56:             pnlMenu.Controls.Add(pnlLogo);
+57:             pnlMenu.Dock = DockStyle.Left;
+58:             pnlMenu.Location = new Point(0, 0);
+59:             pnlMenu.Name = "pnlMenu";
+60:             pnlMenu.Size = new Size(245, 450);
+61:             pnlMenu.TabIndex = 0;
+62:             // 
+63:             // pnlLogo
+64:             // 
+65:             pnlLogo.BackColor = SystemColors.Control;
+66:             pnlLogo.Controls.Add(lblSubtitulo);
+67:             pnlLogo.Controls.Add(picLogo);
+68:             pnlLogo.Controls.Add(lblTitulo);
+69:             pnlLogo.Dock = DockStyle.Top;
+70:             pnlLogo.Location = new Point(0, 0);
+71:             pnlLogo.Name = "pnlLogo";
+72:             pnlLogo.Size = new Size(245, 80);
+73:             pnlLogo.TabIndex = 0;
+74:             // 
+75:             // picLogo
+76:             // 
+77:             picLogo.BackColor = Color.Transparent;
+78:             picLogo.BackgroundImageLayout = ImageLayout.Zoom;
+79:             picLogo.Image = Properties.Resources.images__1_;
+80:             picLogo.Location = new Point(9, 9);
+81:             picLogo.Name = "picLogo";
+82:             picLogo.Size = new Size(62, 60);
+83:             picLogo.SizeMode = PictureBoxSizeMode.Zoom;
+84:             picLogo.TabIndex = 2;
+85:             picLogo.TabStop = false;
+86:             // 
+87:             // lblTitulo
+88:             // 
+89:             lblTitulo.AutoSize = true;
+90:             lblTitulo.Font = new Font("Corbel", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+91:             lblTitulo.Location = new Point(71, 7);
+92:             lblTitulo.Name = "lblTitulo";
+93:             lblTitulo.Size = new Size(166, 35);
+94:             lblTitulo.TabIndex = 0;
+95:             lblTitulo.Text = "BIBLIOTECA";
+96:             // 
+97:             // pnlSuperiror
+98:             // 
+99:             pnlSuperiror.BackColor = Color.LightCyan;
+100:             pnlSuperiror.Dock = DockStyle.Top;
+101:             pnlSuperiror.Location = new Point(245, 0);
+102:             pnlSuperiror.Name = "pnlSuperiror";
+103:             pnlSuperiror.Size = new Size(555, 80);
+104:             pnlSuperiror.TabIndex = 1;
+105:             // 
+106:             // pnlEstado
+107:             // 
+108:             pnlEstado.BackColor = Color.Azure;
+109:             pnlEstado.Dock = DockStyle.Bottom;
+110:             pnlEstado.Location = new Point(245, 410);
+111:             pnlEstado.Name = "pnlEstado";
+112:             pnlEstado.Size = new Size(555, 40);
+113:             pnlEstado.TabIndex = 2;
+114:             // 
+115:             // pnlContenido
+116:             // 
+117:             pnlContenido.Dock = DockStyle.Fill;
+118:             pnlContenido.Location = new Point(245, 80);
+119:             pnlContenido.Name = "pnlContenido";
+120:             pnlContenido.Size = new Size(555, 330);
+121:             pnlContenido.TabIndex = 3;
+122:             // 
+123:             // btnInicio
+124:             // 
+125:             btnInicio.Dock = DockStyle.Top;
+126:             btnInicio.Font = new Font("Segoe UI Semibold", 10.2F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+127:             btnInicio.IconChar = FontAwesome.Sharp.IconChar.House;
+128:             btnInicio.IconColor = Color.Black;
+129:             btnInicio.IconFont = FontAwesome.Sharp.IconFont.Auto;
+130:             btnInicio.IconSize = 30;
+131:             btnInicio.ImageAlign = ContentAlignment.MiddleRight;
+132:             btnInicio.Location = new Point(0, 80);
+133:             btnInicio.Name = "btnInicio";
+134:             btnInicio.Size = new Size(245, 45);
+135:             btnInicio.TabIndex = 1;
+136:             btnInicio.Text = "INICIO";
+137:             btnInicio.TextImageRelation = TextImageRelation.ImageBeforeText;
+138:             btnInicio.UseVisualStyleBackColor = true;
+139:             btnInicio1.Click += (sender, e) => { /* Handle click */ };
+140:             // 
+141:             // lblSubtitulo
+142:             // 
+143:             lblSubtitulo.AutoSize = true;
+144:             lblSubtitulo.Font = new Font("Segoe UI", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 0);
+145:             lblSubtitulo.Location = new Point(77, 42);
+146:             lblSubtitulo.Name = "lblSubtitulo";
+147:             lblSubtitulo.Size = new Size(153, 23);
+148:             lblSubtitulo.TabIndex = 0;
+149:             lblSubtitulo.Text = "Sistema De Gestión";
+150:             // 
+151:             // FrmPrincipal
+152:             // 
+153:             AutoScaleDimensions = new SizeF(8F, 20F);
+154:             AutoScaleMode = AutoScaleMode.Font;
+155:             ClientSize = new Size(800, 450);
+156:             Controls.Add(pnlContenido);
+157:             Controls.Add(pnlEstado);
+158:             Controls.Add(pnlSuperiror);
+159:             Controls.Add(pnlMenu);
+160:             Name = "FrmPrincipal";
+161:             StartPosition = FormStartPosition.CenterScreen;
+162:             Text = "Sistema Gestión de Biblioteca";
+163:             Load += Form1_Load;
+164:             pnlMenu.ResumeLayout(false);
+165:             pnlLogo.ResumeLayout(false);
+166:             pnlLogo.PerformLayout();
+167:             ((System.ComponentModel.ISupportInitialize)picLogo).EndInit();
+168:             ResumeLayout(false);
+169:         }
+```
+Current statement: line 139
+[2] AcaBiblioteca.dll!AcaBiblioteca.FrmPrincipal.FrmPrincipal
+Code for the stack frame:
+```csharp AcaBiblioteca\FrmPrincipal.cs
+5:         public FrmPrincipal()
+6:         {
+7:             InitializeComponent(GetBtnInicio1());
+8:         }
+```
+Current statement: line 7
+[3] AcaBiblioteca.dll!AcaBiblioteca.Program.Main
+Code for the stack frame:
+```csharp AcaBiblioteca\Program.cs
+8:         [STAThread]
+9:         static void Main()
+10:         {
+11:             // To customize application configuration such as set high DPI settings or default font,
+12:             // see https://aka.ms/applicationconfiguration.
+13:             ApplicationConfiguration.Initialize();
+14:             Application.Run(new FrmPrincipal());
+15:         }
+```
+Current statement: line 14
+
+## LOCALS
+| Name | Type | Value |
+| --- | --- | --- |
+| this | AcaBiblioteca.FrmPrincipal | {AcaBiblioteca.FrmPrincipal, Text: } |
+| btnInicio1 | FontAwesome.Sharp.IconButton | null |
+

@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|c:\\users\\nicol\\source\\repos\\acabiblioteca\\acabiblioteca\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|c:\\users\\nicol\\source\\repos\\acabiblioteca\\acabiblioteca\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|c:\\users\\nicol\\source\\repos\\acabiblioteca\\acabiblioteca\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|c:\\users\\nicol\\source\\repos\\acabiblioteca\\acabiblioteca\\frmprestamos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmprestamos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\acabiblioteca\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\acabiblioteca\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\acabiblioteca\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\acabiblioteca\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\acabiblioteca\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\acabiblioteca\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\acabiblioteca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|c:\\users\\nicol\\source\\repos\\acabiblioteca\\acabiblioteca\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B1E8C3-74E9-A2D7-020A-DA826A7A164A}|AcaBiblioteca\\AcaBiblioteca.csproj|solutionrelative:acabiblioteca\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmReportes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmReportes.Designer.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmReportes.Designer.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmReportes.Designer.cs",
+              "RelativeToolTip": "AcaBiblioteca\\FrmReportes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T21:34:19.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmReportes.cs",
+              "RelativeToolTip": "AcaBiblioteca\\FrmReportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T21:33:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrestamos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrestamos.Designer.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmPrestamos.Designer.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrestamos.Designer.cs",
+              "RelativeToolTip": "AcaBiblioteca\\FrmPrestamos.Designer.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAA5wDcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T21:21:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrestamos.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrestamos.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmPrestamos.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrestamos.cs",
+              "RelativeToolTip": "AcaBiblioteca\\FrmPrestamos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T21:21:16.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPrestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrestamos.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmPrestamos.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrestamos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmPrestamos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T21:21:14.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmReportes.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmReportes.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T20:32:51.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmEditoriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmEditoriales.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmEditoriales.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmEditoriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmEditoriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T20:01:03.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmAutores.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmAutores.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:41:31.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLibros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmLibros.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmLibros.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmLibros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmLibros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:41:10.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:18:35.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcaBiblioteca\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T22:51:02.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "AcaBiblioteca\\Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\nicol\\source\\repos\\AcaBiblioteca\\AcaBiblioteca\\Datos\\Conexion.cs",
+              "RelativeToolTip": "AcaBiblioteca\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T23:39:11.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
