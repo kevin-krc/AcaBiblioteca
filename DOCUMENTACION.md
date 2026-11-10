@@ -218,7 +218,7 @@ El Bibliotecario / Administrador es el único actor de AcaBiblioteca. Su interac
 - **Generación de reportes:** consulta los préstamos activos, los préstamos devueltos y el inventario de libros.
 ## 5.2 Diagrama de casos de uso
  
-![alt text](Diagrama_De_Casos_De_Uso_-_Biblioteca.png)
+>Nota: Este diagrama se evidencia en la carpeta Diagramas de GitHub.
 
 
 ## 5.3 Descripción de casos de uso
@@ -322,8 +322,7 @@ El diagrama de clases representa las entidades del sistema (que corresponden a l
  
 ## 6.2 Diagrama de clases
 
-![alt text](Diagrama_De_Clases_-_Biblioteca.png)
-
+>Nota: Este diagrama se evidencia en la carpeta Diagramas de GitHub.
 ## 6.3 Principales clases
  
 | Clase | Responsabilidad |
@@ -358,7 +357,7 @@ El modelo de datos está formado por cinco tablas: `Autores`, `Editoriales`, `Li
  
 ## 7.2 Diagrama entidad-relación
  
-![alt text](Entidad_Relacion-Biblioteca.png)
+>Nota: Este diagrama se evidencia en la carpeta Diagramas de GitHub.
  
 ## 7.3 Relaciones principales
  
@@ -369,9 +368,7 @@ El modelo de datos está formado por cinco tablas: `Autores`, `Editoriales`, `Li
 ---
  
 # 8. DICCIONARIO DE DATOS
- 
-![alt text](Diccionario_De_Datos_-_Biblioteca.png)
- 
+>Nota: Este diagrama se evidencia en la carpeta Diagramas de GitHub.
 ## 8.1 Convenciones
  
 | Abreviatura | Significado |
@@ -446,7 +443,7 @@ La aplicación no cuenta con clases separadas de lógica de negocio ni DAO: las 
  
 ## 9.2 Diagrama de arquitectura
  
-![alt text](Arquitectura_Del_Sistema_-_Biblioteca.png)
+>Nota: Este diagrama se evidencia en la carpeta Diagramas de GitHub.
  
 ## 9.3 Presentación y lógica
  
@@ -550,43 +547,43 @@ Las respuestas de la base de datos realizan el recorrido inverso hasta mostrarse
  
 ## 11.1 Menú principal
  
-![alt text](Menu_Principal.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 **Descripción:** Formulario principal con el menú lateral (Inicio, Libros, Usuarios, Autores, Editoriales, Préstamos, Reportes y Salir) y el panel donde se muestran los módulos.
  
 ## 11.2 Gestión de libros
  
-![alt text](Gestion_de_Libros.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 **Descripción:** Registro, búsqueda por ISBN, edición y eliminación de libros.
  
 ## 11.3 Gestión de autores
  
-![alt text](Gestion_de_Autores.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 **Descripción:** CRUD de autores.
  
 ## 11.4 Gestión de editoriales
  
-![alt text](Gestion_de_Editoriales.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 **Descripción:** CRUD de editoriales.
  
 ## 11.5 Gestión de usuarios
  
-![alt text](Gestion_de_usuarios.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 **Descripción:** CRUD de usuarios.
  
 ## 11.6 Registro de préstamos y devoluciones
  
-![alt text](Gestion_dePrestamos.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 **Descripción:** Registro de préstamos, registro de devoluciones y eliminación de préstamos.
  
 ## 11.7 Reportes
  
-![alt text](Gestion_de_Reportes.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 **Descripción:** Generación de los reportes de préstamos activos, préstamos devueltos e inventario de libros.
  
@@ -622,11 +619,11 @@ Se realizaron pruebas funcionales manuales sobre la aplicación en ejecución, u
  
  
 ### Prueba CP01
- ![alt text](<R.Libro -  Guadado de libro.png>)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 ### Prueba CP08
  
-![alt text](R.Prestamo.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
  
 ---
@@ -662,7 +659,7 @@ Se realizaron pruebas funcionales manuales sobre la aplicación en ejecución, u
  
 ## Anexo C. Evidencia de Git y GitHub
  
-![alt text](Commits.png)
+>NOTA: Esta imgen se evidenciara en la carpeta de Evidencias de GitHub.
  
 
  
